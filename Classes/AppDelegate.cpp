@@ -28,7 +28,7 @@
 #include "Scene\BattleScene.h"
 #include"Scene/StartScene.h"
 
-// #define USE_AUDIO_ENGINE 1
+// #define USE__ENGINE 1
 // #define USE_SIMPLE_AUDIO_ENGINE 1
 
 #if USE_AUDIO_ENGINE && USE_SIMPLE_AUDIO_ENGINE

@@ -102,7 +102,7 @@ bool Knight::init() {
 
 void Knight::registerKeyboardEvent() {
 	auto listener = EventListenerKeyboard::create();
-
+    
 	listener->onKeyPressed = [&](EventKeyboard::KeyCode code, Event*) {
 		static Vec2 last;
 		static bool isRight = true;

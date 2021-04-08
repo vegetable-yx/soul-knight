@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+*./game
+
 cocos2d/
 proj.android
 proj.ios_mac
